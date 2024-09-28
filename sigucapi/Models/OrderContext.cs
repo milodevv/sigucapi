@@ -15,6 +15,8 @@ namespace sigucapi.Models
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<OrderData>().HasIndex(e => e.Id).IsUnique();
+
+            modelBuilder.Entity<OrderData>().Property(e => e.total_weighht).HasColumnType("decimal(18, 2)");
         }
     }
 }

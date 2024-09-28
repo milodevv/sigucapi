@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yQt6jlVULFnun5kUV/YOrW/ghN3OWS1HKR9pJuAnHzU=",
+  "Source": "sigucapi",
+  "BasePath": "_content/sigucapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
