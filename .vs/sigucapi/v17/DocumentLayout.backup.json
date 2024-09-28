@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\controllers\\salesordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\controllers\\salesordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\models\\salesordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\models\\salesordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\models\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\models\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\models\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\models\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\controllers\\orderdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\controllers\\orderdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\sigucapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\sigucapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|c:\\users\\mi pc\\source\\visual studio 2022\\sigucapi\\sigucapi\\models\\orderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4D48D4-F748-4A2E-BD59-6B2569B193A8}|sigucapi\\sigucapi.csproj|solutionrelative:sigucapi\\models\\orderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Controllers\\SalesOrderController.cs",
+              "RelativeDocumentMoniker": "sigucapi\\Controllers\\SalesOrderController.cs",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Controllers\\SalesOrderController.cs",
+              "RelativeToolTip": "sigucapi\\Controllers\\SalesOrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:11:49.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Models\\SalesOrder.cs",
+              "RelativeDocumentMoniker": "sigucapi\\Models\\SalesOrder.cs",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Models\\SalesOrder.cs",
+              "RelativeToolTip": "sigucapi\\Models\\SalesOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:53:16.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesOrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Models\\SalesOrderContext.cs",
+              "RelativeDocumentMoniker": "sigucapi\\Models\\SalesOrderContext.cs",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Models\\SalesOrderContext.cs",
+              "RelativeToolTip": "sigucapi\\Models\\SalesOrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:51:52.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sigucapi.csproj",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\sigucapi.csproj",
+              "RelativeDocumentMoniker": "sigucapi\\sigucapi.csproj",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\sigucapi.csproj",
+              "RelativeToolTip": "sigucapi\\sigucapi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T11:24:21.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\appsettings.json",
+              "RelativeDocumentMoniker": "sigucapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\appsettings.json",
+              "RelativeToolTip": "sigucapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T12:56:17.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Program.cs",
+              "RelativeDocumentMoniker": "sigucapi\\Program.cs",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Program.cs",
+              "RelativeToolTip": "sigucapi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T03:12:19.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderData.cs",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Models\\OrderData.cs",
+              "RelativeDocumentMoniker": "sigucapi\\Models\\OrderData.cs",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Models\\OrderData.cs",
+              "RelativeToolTip": "sigucapi\\Models\\OrderData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:38:00.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "sigucapi\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "sigucapi\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:14:22.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Models\\OrderContext.cs",
+              "RelativeDocumentMoniker": "sigucapi\\Models\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Models\\OrderContext.cs",
+              "RelativeToolTip": "sigucapi\\Models\\OrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:20:39.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "sigucapi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "sigucapi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T02:43:10.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Controllers\\OrderDataController.cs",
+              "RelativeDocumentMoniker": "sigucapi\\Controllers\\OrderDataController.cs",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Controllers\\OrderDataController.cs",
+              "RelativeToolTip": "sigucapi\\Controllers\\OrderDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:39:50.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Settings.cs",
+              "RelativeDocumentMoniker": "sigucapi\\Settings.cs",
+              "ToolTip": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\Settings.cs",
+              "RelativeToolTip": "sigucapi\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:27:29.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
