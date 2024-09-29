@@ -4984,24 +4984,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mi Pc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ochoa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\sigucapi.csproj",
+      "projectUniqueName": "C:\\Users\\ochoa\\Desktop\\sigucapi\\sigucapi\\sigucapi.csproj",
       "projectName": "sigucapi",
-      "projectPath": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\sigucapi.csproj",
-      "packagesPath": "C:\\Users\\Mi Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mi Pc\\source\\Visual Studio 2022\\sigucapi\\sigucapi\\obj\\",
+      "projectPath": "C:\\Users\\ochoa\\Desktop\\sigucapi\\sigucapi\\sigucapi.csproj",
+      "packagesPath": "C:\\Users\\ochoa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ochoa\\Desktop\\sigucapi\\sigucapi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mi Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ochoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
