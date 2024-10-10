@@ -4984,19 +4984,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ochoa\\.nuget\\packages\\": {}
+    "C:\\Users\\millerochoa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ochoa\\Desktop\\sigucapi\\sigucapi\\sigucapi.csproj",
+      "projectUniqueName": "C:\\Users\\millerochoa\\Desktop\\sigucapi\\sigucapi\\sigucapi.csproj",
       "projectName": "sigucapi",
-      "projectPath": "C:\\Users\\ochoa\\Desktop\\sigucapi\\sigucapi\\sigucapi.csproj",
-      "packagesPath": "C:\\Users\\ochoa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ochoa\\Desktop\\sigucapi\\sigucapi\\obj\\",
+      "projectPath": "C:\\Users\\millerochoa\\Desktop\\sigucapi\\sigucapi\\sigucapi.csproj",
+      "packagesPath": "C:\\Users\\millerochoa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\millerochoa\\Desktop\\sigucapi\\sigucapi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ochoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\millerochoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5070,7 +5075,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sigucapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68f4ead1a7cf6461afffdf1ccb6d7853e874064f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e855e609580c7abcb39bee1b92926fd296dfbd00")]
 [assembly: System.Reflection.AssemblyProductAttribute("sigucapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sigucapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

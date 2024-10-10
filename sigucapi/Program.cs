@@ -4,12 +4,12 @@ using sigucapi;
 using sigucapi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
-var movieApiKey = builder.Configuration["Movies:ServiceApiKey"];
-var connectionString = builder.Configuration.GetConnectionString("ConnectionString");
+//var movieApiKey = builder.Configuration["Movies:ServiceApiKey"];
+//var connectionString = builder.Configuration.GetConnectionString("ConnectionString");
 //builder.Configuration.AddAzureAppConfiguration(connectionString);
 
-builder.Services.AddRazorPages();
-builder.Services.Configure<Settings>(builder.Configuration.GetSection(nameof(Settings)));
+//builder.Services.AddRazorPages();
+//builder.Services.Configure<Settings>(builder.Configuration.GetSection(nameof(Settings)));
 
 // Add services to the container.
 builder.Services.AddCors(options =>
@@ -35,6 +35,11 @@ builder.Services.AddDbContext<SalesOrderContext>(x =>
 });
 
 builder.Services.AddDbContext<ProvidersContext>(x =>
+{
+    x.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
+
+builder.Services.AddDbContext<ProformaContext>(x =>
 {
     x.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });

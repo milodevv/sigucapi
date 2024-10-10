@@ -1,9 +1,9 @@
-﻿using Azure.Messaging.EventGrid;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace sigucapi.Models
 {
-    public class OrderData
+    [Table("proforma")]
+    public class Proforma
     {
         public int id { get; set; }
         public string? target_customer { get; set; }
@@ -11,9 +11,8 @@ namespace sigucapi.Models
         public decimal net_weight { get; set; }
         public decimal gross_weight { get; set; }
         public string? client_address { get; set; }
-        public string? unit_load { get; set; }
-        [Column("statu_id")]
-        public string? statu { get; set; }
-        public string? proforma_id { get; set; }
+        public string? statu {  get; set; }
+        [NotMapped]
+        public List<OrderData> orders { get; set; } = [];
     }
 }
